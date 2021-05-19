@@ -42,7 +42,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoySenGupta&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270&card_height=full" alt="Susmoy Sen Gupta's Most Used GitHub Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoySenGupta&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270&line_height=20&title_color=DDD6FE&text_color=F9FAFB" alt="Susmoy Sen Gupta's Most Used GitHub Languages" />
 </a>
 
 
