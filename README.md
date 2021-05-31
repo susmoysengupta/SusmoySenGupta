@@ -35,16 +35,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" hspace="1" />
 
 <br />
-
 <hr />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SusmoySenGupta&show_icons=true&bg_color=1a202c&icon_color=8B5CF6&title_color=DDD6FE&text_color=F9FAFB" />
 
+[![Susmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusmoySenGupta&count_private=true&show_icons=true&bg_color=1a202c&icon_color=8B5CF6&title_color=DDD6FE&text_color=F9FAFB)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoySenGupta&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270&line_height=20&title_color=DDD6FE&text_color=F9FAFB" alt="Susmoy Sen Gupta's Most Used GitHub Languages" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SusmoySenGupta&layout=compact&count_private=true&theme=dracula&show_icons=true&hide=css&card_width=270&line_height=20&title_color=DDD6FE&text_color=F9FAFB)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
