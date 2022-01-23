@@ -1,12 +1,11 @@
 ### Hi there, I'm Susmoy 👋
 
-## I'm a Full Stack Software Developer!!
+## I'm a Software Engineer!!
 
 - 🌱 I’m currently working on VueJs
 - 🔭 I love clean coding
 - 👯 I’m looking to get hired
-- 🥅 2021 Goals: Contribute to an Open Source project
-- ⚡ I love to photograph people
+- 🥅 2022 Goals: Contribute to an Open Source project
 
 ### Languages and Tools:
 
