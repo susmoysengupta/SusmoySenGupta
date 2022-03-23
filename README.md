@@ -16,7 +16,7 @@ I am Susmoy from Bangladesh and currently working as a Software Engineer.
 - 🌱 Learning System Design
 
 ## Work Experience
-* Software Engineer (Magnetism Tech Ltd - present)
+* Software Engineer (Magnetism Tech Ltd - Almost 1 year)
 
 ## Leadership Skill
 * Basic C programming Trainer at BUETech
