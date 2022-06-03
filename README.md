@@ -1,4 +1,5 @@
-## Susmoy Sen Gupta - Software Engineer (Full Stack) 👋 ![](https://komarev.com/ghpvc/?username=SusmoySenGupta&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=SusmoySenGupta&color=blueviolet)
+## Susmoy Sen Gupta - Software Engineer (Full Stack) 👋
 I am Susmoy from Bangladesh and currently working as a Software Engineer.
 
 ## Github Stats
