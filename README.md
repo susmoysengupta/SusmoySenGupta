@@ -13,7 +13,7 @@ I am Susmoy from Bangladesh and currently working as a Software Engineer.
 * Data Structures & Algorithms
 
 ## Currently doing :dart:
-- 🔭 Learning React, NodeJs, MongoDB
+- 🔭 Learning React.js, Redux.js
 - 🌱 Learning System Design
 
 ## Work Experience
